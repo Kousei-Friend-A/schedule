@@ -1,5 +1,5 @@
 import requests
-from telegram import ParseMode
+from telegram.constants import ParseMode
 from telegram.ext import Updater, CommandHandler
 from database import init_db, update_database, check_for_releases, create_schedule_message
 from config import API_TOKEN, CHANNEL_ID, SUBSPLS_API_URL
