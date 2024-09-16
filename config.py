@@ -1,0 +1,5 @@
+API_TOKEN = '7501936092:AAHdgIDKUwMKCffWehEAl1aZ6GiX1zADaUAEN'
+CHANNEL_ID = '@ongoinganime_arc'
+SUBSPLS_API_URL = 'https://subsplease.org/api/?f=schedule&h=true&tz=Asia/Kolkata'
+MONGO_URI = 'Ymongodb+srv://friendakouseimanu:asdfg@cluster0.1trpq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+DB_NAME = 'anime_schedule_db'
